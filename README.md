@@ -9,3 +9,5 @@
 7 "git remote" or "git remote add origin https://github.com/amiraligull/codetest.git"
 the above command basically tells the git where have to upload the files on which addres mean on which repo. one more thing you have to provide it only one time when you first push the changes after that you don,t neet run this command again and again.
 8 "git push -u origin main" you will run this command when you push the code first time to the repo after that when you want to push code to git repo just run the command "git push"
+9 "git clone URL" This command will copy the repo which URL you past
+10 "git pull origin main" this command helps you to get the updated changes in to the repo also you have to run it befor "git push origin main" command than push the code
