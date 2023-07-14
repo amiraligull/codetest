@@ -21,4 +21,6 @@ the above command basically tells the git where have to upload the files on whic
 
 10 "git clone URL" This command will copy the repo which URL you past
 
-11 "git branch"
+11 "git branch BranchName" this command will help you to create a new branch in repo
+
+12 "git checkout BranchName" this command will move your Head(switched) from one branch to other which you just provide the Branch Name
