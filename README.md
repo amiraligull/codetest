@@ -28,7 +28,8 @@ the above command basically tells the git where have to upload the files on whic
 =========================================
 now lets first move to master or main branch so we can see if we have any changes from other branch that we can merge in master or our main branch.
 first check the master is fully updated or not by git pull origin main-or-master
-after that we move to 13 point bellow
+after that we move to 13 point bellow.
+
 13 "git branch --merged" than
 "git merge BranchName" the branch you want to merge in master or main will merge.
 
