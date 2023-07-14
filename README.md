@@ -24,3 +24,12 @@ the above command basically tells the git where have to upload the files on whic
 11 "git branch BranchName" this command will help you to create a new branch in repo
 
 12 "git checkout BranchName" this command will move your Head(switched) from one branch to other which you just provide the Branch Name
+
+=========================================
+now lets first move to master or main branch so we can see if we have any changes from other branch that we can merge in master or our main branch.
+first check the master is fully updated or not by git pull origin main-or-master
+after that we move to 13 point bellow
+13 "git branch --merged" than
+"git merge BranchName" the branch you want to merge in master or main will merge.
+
+14 than simply push under your main or master branch git push origin Masterormain
